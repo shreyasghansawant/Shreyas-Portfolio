@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f5bd549.chunk.css",
+    "main.js": "/static/js/main.a98cd353.chunk.js",
+    "main.js.map": "/static/js/main.a98cd353.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e387f811.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e387f811.js.map",
+    "static/js/2.fec25bb6.chunk.js": "/static/js/2.fec25bb6.chunk.js",
+    "static/js/2.fec25bb6.chunk.js.map": "/static/js/2.fec25bb6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1bfc641f86432d2f3e77a8db76191313.js": "/precache-manifest.1bfc641f86432d2f3e77a8db76191313.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0f5bd549.chunk.css.map": "/static/css/main.0f5bd549.chunk.css.map",
+    "static/js/2.fec25bb6.chunk.js.LICENSE.txt": "/static/js/2.fec25bb6.chunk.js.LICENSE.txt",
+    "static/media/agecal.png": "/static/media/agecal.0b815022.png",
+    "static/media/beginners_beat.png": "/static/media/beginners_beat.a5306d23.png",
+    "static/media/index.css": "/static/media/sky.7ecd360a.svg",
+    "static/media/ig.png": "/static/media/ig.0e84d592.png",
+    "static/media/loveyourself.png": "/static/media/loveyourself.d4666ae0.png",
+    "static/media/persona-chrome.png": "/static/media/persona-chrome.3d0e394d.png",
+    "static/media/photos.png": "/static/media/photos.bb426c7e.png",
+    "static/media/shreyas.png": "/static/media/shreyas.7894a788.png",
+    "static/media/shreyasghansawant.png": "/static/media/shreyasghansawant.893049dd.png",
+    "static/media/webdeo.png": "/static/media/webdeo.99d5b978.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e387f811.js",
+    "static/js/2.fec25bb6.chunk.js",
+    "static/css/main.0f5bd549.chunk.css",
+    "static/js/main.a98cd353.chunk.js"
+  ]
+}
